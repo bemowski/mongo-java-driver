@@ -3,6 +3,7 @@
  * driver home: http://github.com/mongodb/mongo-java-driver
  * mongodb home: http://www.mongodb.org/
  * javadoc: http://api.mongodb.org/java/
+ * hello world
 
 ### Questions and Bug Reports
  * mailing list: http://groups.google.com/group/mongodb-user
